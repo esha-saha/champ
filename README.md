@@ -30,6 +30,8 @@ where $u(\vec{x},t)$ is the mass concentration, $q(\vec{x},t)$ is a source (or s
 1. CHAMP_EvaluationFinal.ipynb for evaluating the trained models on training and test data. Use the uploaded trained models for evaluation
 2. CHAMP_Training.ipynb for training models from scratch
 3. CHAMP_helpers.py contains helper functions for the above notebooks
+4. CHAMP_ReverseWindPlotFinal.ipynb for evaluating the saved trained models for tracking emissions and wind plots
+5. CHAMP_ReverseWindPlot_helpers.py contains helps functions for the above notebook
 
 ## Citation and Contact
 If you use any part of this work or find it useful in any way, please cite. For any comments or questions please email esaha1@ualberta.ca
