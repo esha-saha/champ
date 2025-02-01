@@ -9,6 +9,7 @@ Use the steps below for a local installation of the model and to reproduce resul
 $ git clone https://github.com/esaha2703/champ.git
 $ pip install - e .
 ```
+If directly implementating from the posted codes, ensure all the datasets and the trained models are in the same folder. They are posted in separate folders for the sake of better organization. 
 ## Problem Statement
 
 The goal of the proposed research is to train a parameterized model to track emissions from oil sands tailings ponds in Alberta, Canada using methane concentrations.
@@ -42,4 +43,6 @@ If you use any part of this work or find it useful in any way, please cite. For 
   journal={arXiv preprint arXiv:2411.06741},
   year={2024}
 }
+
+Weather data can also be downloaded from https://wbea.org
 ```
