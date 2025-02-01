@@ -1,5 +1,10 @@
 # Constrained Hybrid Approaches for Methane Prediction
-Code implementations and repository of the paper titled 'Methane projections from Canada's oil sands tailings using scientific deep learning reveal significant underestimation' (https://arxiv.org/abs/2411.06741) currently under review.
+Code implementations and repository of the paper titled:
+
+#### Methane projections from Canada's oil sands tailings using scientific deep learning reveal significant underestimation
+(https://arxiv.org/abs/2411.06741).
+
+Currently under review.
 
 ## Installation
 
@@ -28,14 +33,18 @@ where $u(\vec{x},t)$ is the mass concentration, $q(\vec{x},t)$ is a source (or s
 
 ## Implementations
 
-1. CHAMP_EvaluationFinal.ipynb for evaluating the trained models on training and test data. Use the uploaded trained models for evaluation
-2. CHAMP_Training.ipynb for training models from scratch
-3. CHAMP_helpers.py contains helper functions for the above notebooks
-4. CHAMP_ReverseWindPlotFinal.ipynb for evaluating the saved trained models for tracking emissions and wind plots
-5. CHAMP_ReverseWindPlot_helpers.py contains helps functions for the above notebook
+1. CHAMP_EvaluationFinal.ipynb for evaluating the trained models on training and test data. Use the uploaded trained models for evaluation.
+2. CHAMP_Training.ipynb for training models from scratch.
+3. CHAMP_helpers.py contains helper functions for the above notebooks.
+4. CHAMP_ReverseWindPlotFinal.ipynb for evaluating the saved trained models for tracking emissions and wind plots.
+5. CHAMP_ReverseWindPlot_helpers.py contains helps functions for the above notebook.
+
+Weather data can also be downloaded from https://wbea.org.
 
 ## Citation and Contact
-If you use any part of this work or find it useful in any way, please cite. For any comments or questions please email esaha1@ualberta.ca
+For any comments or questions please email esaha1@ualberta.ca.
+
+If you use any part of this work or find it useful in any way, please cite,
 ```
 @article{saha2024methane,
   title={Methane projections from Canada's oil sands tailings using scientific deep learning reveal significant underestimation},
@@ -43,6 +52,4 @@ If you use any part of this work or find it useful in any way, please cite. For 
   journal={arXiv preprint arXiv:2411.06741},
   year={2024}
 }
-
-Weather data can also be downloaded from https://wbea.org
 ```
