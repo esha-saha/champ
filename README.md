@@ -39,7 +39,7 @@ where $u(\vec{x},t)$ is the mass concentration, $q(\vec{x},t)$ is a source (or s
 4. CHAMP_ReverseWindPlotFinal.ipynb for evaluating the saved trained models for tracking emissions and wind plots.
 5. CHAMP_ReverseWindPlot_helpers.py contains helps functions for the above notebook.
 
-Weather data can also be downloaded from https://wbea.org.
+Weather data can also be downloaded from https://wbea.org. The processed datasets used in the models are uploaded here.
 
 ## Citation and Contact
 For any comments or questions please email esaha1@ualberta.ca.
