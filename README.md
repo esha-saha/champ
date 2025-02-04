@@ -4,6 +4,14 @@ Code implementations and repository of the paper titled:
 #### Methane projections from Canada's oil sands tailings using scientific deep learning reveal significant underestimation
 (https://arxiv.org/abs/2411.06741).
 
+Authors:
+1. Esha Saha (postdoc, ILMEE, University of Alberta)
+2. Oscar Wang (undergraduate, University of Richmond)
+3. Amit K Chakraborty (graduate student, ILMEE, University of Alberta)
+4. Pablo Venegas Garcia (postdoc, ILMEE, University of Alberta)
+5. Russell Milne (postdoc, ILMEE, University of Alberta)
+6. Hao Wang (Professor, ILMEE, University of Alberta)
+
 Currently under review.
 
 ## Installation
@@ -43,6 +51,8 @@ Weather data can also be downloaded from https://wbea.org. The processed dataset
 
 ## Citation and Contact
 For any comments or questions please email esaha1@ualberta.ca.
+
+Visit https://sites.google.com/ualberta.ca/ilmee/home to know more about our works and research areas!  
 
 If you use any part of this work or find it useful in any way, please cite,
 ```
